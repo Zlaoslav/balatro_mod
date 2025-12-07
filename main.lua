@@ -80,7 +80,7 @@ SMODS.Joker{
         mult_mod = 0-card.ability.extra.Mult,
         Xmult_mod = card.ability.extra.Xmult,
         message = 'X' .. card.ability.extra.Xmult,
-        colour = B.C.MULT
+        colour = G.C.MULT
       }
     end
   end
